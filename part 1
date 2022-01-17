@@ -1,7 +1,7 @@
 <?php
-$fname = "Mohiuddin";
-$lname = "Tarek";
-$name = "Mohiuddin tarek";
+$fname = "tawfiq";
+$lname = "mahmood";
+$name = "tawfiq mahmood";
 echo $fname," ",$lname . "</br>";
 echo $fname. " " . $lname;
 echo strrev($name). "</br>";
